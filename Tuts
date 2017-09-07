@@ -1,0 +1,10 @@
+Message Format: Message #0D #0D #0A Response #0D #0A
+Example: AT#0D#0D#0A OK #0D #0A
+
+UART TUTORIAL : https://letanphuc.net/2015/09/stm32f0-uart-tutorial-5/
+
+Network Tuts: 
+What is Ip & What is port: https://www.youtube.com/watch?v=Jc8eJHFoQ4U
+What is Tcp socket: https://www.youtube.com/watch?v=0s_w8eHu6LQ&t=344s
+Diff between UDP and TCP : https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/
+What is json: https://www.youtube.com/watch?v=JuFdz8f-cT4
